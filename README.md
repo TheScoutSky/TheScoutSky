@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://media.giphy.com/media/AQkDrvSJX1dOlU7oHR/giphy.gif" align="center" height="" width="" />
-</div>  
   
-
 ### **<div align="center">THESKYSCOUT</div>**  
   
 
