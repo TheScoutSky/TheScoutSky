@@ -8,7 +8,7 @@
 - ✴️ Working on [SoulSMP](https://discord.com/invite/soul-smp-minecraft-850364001195261993) and [more]()
   
 
-- 💜 Kotlin, Phyton  
+- 💜 Kotlin, Phyton, C++
   
 
 - 🎮 Game Designing  
