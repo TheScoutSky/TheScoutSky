@@ -14,7 +14,7 @@
 - 💜 Kotlin, Phyton, C++
   
 
-- 🎮 Game Designing  
+- 🎮 Game and Web Designing  
   
 
 <br/>  
