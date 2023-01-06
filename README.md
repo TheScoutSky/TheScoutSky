@@ -8,7 +8,7 @@
 - ✴️ No Projects at this time
 
 
-- 📝 Already worked on [Wolkenlos](linktr.ee/wolkenlos), [SoulSMP](https://disboard.org/de/server/850364001195261993) and [more](nothing)
+- 📝 Already worked on [Wolkenlos](https://linktr.ee/wolkenlos), [SoulSMP](https://disboard.org/de/server/850364001195261993) and [more](nothing)
   
 
 - 💜 Kotlin, Phyton, C++
