@@ -11,7 +11,7 @@
 - 📝 Already worked on [Wolkenlos](https://linktr.ee/wolkenlos), [SoulSMP](https://disboard.org/de/server/850364001195261993) and [more](nothing)
   
 
-- 💜 Kotlin, Phyton, C++
+- 💜 Kotlin, Python, C++
   
 
 - 🎮 Game and Web Designing  
